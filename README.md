@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently leading the design of mobile application features, delivering robust push notification systems and secure in-app purchase integrations
 - 🌱 I’m currently learning **Node.js**
+- 📫 Take a look at my projects. [here](https://natacuin.github.io/)
 
 ### Skills
 #### Cloud
