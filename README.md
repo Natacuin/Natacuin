@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently leading the design of mobile application features, delivering robust push notification systems and secure in-app purchase integrations
+- 🌱 I’m currently learning **Node.js**
 
 ### Skills
 #### Cloud
@@ -23,6 +24,14 @@ Here are some ideas to get you started:
 #### Programming languages
 ![C#](https://img.shields.io/badge/.Net_C%23-3DDC84?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)</br>
 ![Python](https://img.shields.io/badge/PYTHON-3DDC84?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
+![Node.js](https://img.shields.io/badge/Node.js-3DDC84?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010) In progress... :hourglass_flowing_sand:  </br>
+
+#### Other technologies
+![Git](https://img.shields.io/badge/GIT-FF0000?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)
+![Azure Devops](https://img.shields.io/badge/Azure_Devops-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=101010)</br>
 
 ### Certifications
 [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) <br>
