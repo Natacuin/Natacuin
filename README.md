@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ### Skills
 #### Cloud
-![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010") ![Terraform](https://img.shields.io/badge/TERRAFORM-3DDC84?style=for-the-badge&logo=terraform&logoColor=white&labelColor=101010)</br>
+![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010") ![Terraform](https://img.shields.io/badge/TERRAFORM-2b9348?style=for-the-badge&logo=terraform&logoColor=white&labelColor=101010)</br>
 #### Programming languages
-![C#](https://img.shields.io/badge/.Net_C%23-3DDC84?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)</br>
-![Python](https://img.shields.io/badge/PYTHON-3DDC84?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
-![Node.js](https://img.shields.io/badge/Node.js-3DDC84?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010) In progress... :hourglass_flowing_sand:  </br>
+![C#](https://img.shields.io/badge/.Net_C%23-2b9348?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)</br>
+![Python](https://img.shields.io/badge/PYTHON-2b9348?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
+![Node.js](https://img.shields.io/badge/Node.js-2b9348?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010) In progress... :hourglass_flowing_sand:  </br>
 
 #### Other technologies
 ![Git](https://img.shields.io/badge/GIT-FF0000?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
